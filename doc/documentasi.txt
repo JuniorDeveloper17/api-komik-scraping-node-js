@@ -1,0 +1,158 @@
+dokumentasi penggunaan
+
+tanpa parameter=====================>>
+
+base url = /terpopular
+{
+"image": "https://komikindo.tv/wp-content/uploads/2020/12/Komik-Solo-Leveling-211x285.jpeg",
+"title": "Solo Leveling",
+"color": "Warna",
+"type": " Manhwa",
+"chapter": "Ch. 179 End",
+"updateAt": "2 tahun lalu",
+"url": "/823197-solo-leveling/"
+}
+
+base url = /berwarna
+{
+"image": "https://komikindo.tv/wp-content/uploads/2020/12/Komik-Solo-Leveling-211x285.jpeg",
+"title": "Solo Leveling",
+"color": "Warna",
+"type": " Manhwa",
+"chapter": "Ch. 179 End",
+"updateAt": "2 tahun lalu",
+"url": "/823197-solo-leveling/"
+}
+
+base url = /romantis
+{
+"image": "https://komikindo.tv/wp-content/uploads/2020/12/Komik-Renai-Shimasen-ka-201x285.jpg",
+"title": "Renai Shimasen ka?",
+"ratting": "7.52",
+"color": "Warna",
+"type": " Manga",
+"url": "/renai-shimasen-ka/"
+}
+
+base url = /isekai
+{
+"image": "https://komikindo.tv/wp-content/uploads/2020/12/Komik-Renai-Shimasen-ka-201x285.jpg",
+"title": "Renai Shimasen ka?",
+"ratting": "7.52",
+"color": "Warna",
+"type": " Manga",
+"url": "/renai-shimasen-ka/"
+}
+
+base url = /fantasi
+{
+"image": "https://komikindo.tv/wp-content/uploads/2020/12/Komik-Renai-Shimasen-ka-201x285.jpg",
+"title": "Renai Shimasen ka?",
+"ratting": "7.52",
+"color": "Warna",
+"type": " Manga",
+"url": "/renai-shimasen-ka/"
+}
+
+base url = /aksi
+{
+"image": "https://komikindo.tv/wp-content/uploads/2020/12/Komik-Renai-Shimasen-ka-201x285.jpg",
+"title": "Renai Shimasen ka?",
+"ratting": "7.52",
+"color": "Warna",
+"type": " Manga",
+"url": "/renai-shimasen-ka/"
+}
+
+base url = /terbaru
+{
+"image": "https://komikindo.tv/wp-content/uploads/2021/02/Komik-Ramia-Yana-79x112.jpeg",
+"title": "Ramia-Yana",
+"ratting": "8.56",
+"type": "Manga",
+"views": "47 rb",
+"color": "Hitam Putih",
+"status": "Ongoing",
+"chapter": "Ch. 14",
+"url": "/ramia-yana/"
+}
+
+base url = /genre
+[
+"Action",
+"Adventure",
+"Boys-Love",
+"Comedy",
+"Crime",
+"Drama",
+"Fantasy",
+"Girls-Love",
+"Harem",
+"Historical",
+"Horror",
+"Isekai",
+"Magical-Girls",
+"Mecha",
+"Medical",
+"Music",
+"Mystery",
+"Philosophical",
+"Psychological",
+"Romance",
+"Sci-Fi",
+"Shoujo-Ai",
+"Shounen-Ai",
+"Slice-of-Life",
+"Sports",
+"Superhero",
+"Thriller",
+"Tragedy",
+"Wuxia",
+"Yuri"
+]
+
+base url = /tema
+[
+"Aliens",
+"Animals",
+"Cooking",
+"Crossdressing",
+"Delinquents",
+"Demons",
+"Ecchi",
+"Genderswap",
+"Ghosts",
+"Gore",
+"Gyaru",
+"Harem",
+"Incest",
+"Loli",
+"Mafia",
+"Magic",
+"Martial-Arts",
+"Military",
+"Monster-Girls",
+"Monsters",
+"Music",
+"Ninja",
+"Office-Workers",
+"Police",
+"Post-Apocalyptic",
+"Reincarnation",
+"Reverse-Harem",
+"Samurai",
+"School-Life",
+"Shota",
+"Smut",
+"Supernatural",
+"Survival",
+"Time-Travel",
+"Traditional-Games",
+"Vampires",
+"Video-Games",
+"Villainess",
+"Virtual-Reality",
+"Zombies"
+]
+
+
