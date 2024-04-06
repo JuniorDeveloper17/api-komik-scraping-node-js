@@ -12,8 +12,8 @@ baca dokumentasi sebelum menggunakan ya.
 
  kemudian jalanlan jalankan node index.js dan buka di localhsot 3000
 
- 
- 
+ dan kunjungi repository saya untuk aplikasi komiko dan ubah base url menjadi alamat ip komputer kamu 
+ link repo https://github.com/JuniorDeveloper17/flutter-app-komiko
 
 
 
