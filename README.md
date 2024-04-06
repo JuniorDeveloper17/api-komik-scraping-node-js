@@ -5,7 +5,7 @@ halo ini adalah project terbaru saya. project scraping web Manga dengan Node Js 
 
 baca dokumentasi sebelum menggunakan ya.
 
-# step
+# Step penggunaan
  luncurkan git clone https://github.com/JuniorDeveloper17/api-komik-scraping-node-js.git
 
  run nmp install axios  -  run mpm install cheerio - run npm install express - run npm install body-parser
@@ -160,7 +160,7 @@ baca dokumentasi sebelum menggunakan ya.
 ```http
   GET /baca/:urls
 ```
-## Support
+## Ingin Berkontribusi dengan saya?
 
-For support, email ryanxxjr@gmail.com 
+Hubungi saya email ryanxxjr@gmail.com 
 
